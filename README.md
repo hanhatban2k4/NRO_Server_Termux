@@ -40,18 +40,6 @@ Internal storage: 1.5GB <br />
 
 Termux: Latest version! <br />
 
-# Recaf Requirements
-- As above  <br />
-Architecture:
-- [ ] 32bit ARM
-- [x] 64bit ARM
-- [ ] 32bit x86
-- [ ] 64bit x86_64
-
-<br />
-<br />
-<br />
-
 # Note
 
 Server cannot be start if port 3306, 8080 is in used! <br />
